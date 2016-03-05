@@ -1,5 +1,5 @@
 {
-  "name": "grunt-grunticon",
+  "name": "grunt-ollicon",
   "description": "A mystical CSS icon solution",
   "version": "2.2.2",
   "homepage": "https://github.com/filamentgroup/grunticon",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filamentgroup/grunticon"
+    "url": "https://github.com/oliver-eifler/grunticon"
   },
   "bugs": {
-    "url": "https://github.com/filamentgroup/grunticon/issues"
+    "url": "https://github.com/oliver-eifler/grunticon/issues"
   },
   "license": "MIT",
   "main": "Gruntfile.js",
